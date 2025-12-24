@@ -240,8 +240,3 @@ If this repo saved your time:
 * Share it with others
 * Save someone from wasting a week 😄
 
-```
-
-
-Just tell me 👍
-```
